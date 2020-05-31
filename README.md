@@ -1,21 +1,26 @@
 # corona_map
 
-## Project setup
+## 원격 저장소 복제하기
+```
+git clone https://github.com/KingHyunSu/corona_map.git
+```
+
+## 프로젝트 셋팅
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 서버 실행
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 프로젝트 빌드
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### lint 수정
 ```
 npm run lint
 ```
